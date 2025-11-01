@@ -1,0 +1,132 @@
+[
+  {
+    "name": "Parking Management System",
+    "desc": "Designed hardware and firmware for parking system using Tiva TM4C123G, ESP32, and sensors. Implemented PWM control, I2C OLED display, and local web server.",
+    "image": "parking",
+    "category": "embedded",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "L1-Split Cache Simulation",
+    "desc": "Engineered 32-bit processor cache with MESI protocol for coherence and LRU replacement policy. Split cache: 16KB instruction + 16KB data.",
+    "image": "cache",
+    "category": "architecture",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Asynchronous/Synchronous FIFO",
+    "desc": "Designed Verilog code for synchronous and asynchronous FIFO with 8x8 memory. Implemented full, empty, almost full, and almost empty signals.",
+    "image": "fifo",
+    "category": "verilog",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Booth's Multiplier",
+    "desc": "Designed 4-bit wide Booth's multiplier in Verilog for one-bit and multibit scanning with 100% accuracy for all test cases.",
+    "image": "booth",
+    "category": "verilog",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Object Detection using CNN",
+    "desc": "Developed object detection system using TensorFlow and Keras with ResNet-18 architecture. Achieved 93% accuracy on CIFAR-10 dataset.",
+    "image": "cnn",
+    "category": "ml",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Ripple Carry Adder Simulation",
+    "desc": "Designed 32-bit Ripple carry adder in C. Simulated functionality and delay for 10,000 random input pairs with 100% accuracy.",
+    "image": "adder",
+    "category": "architecture",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Superscalar Pipelined Processor",
+    "desc": "Programmed Verilog code for branch predictor, memory, cache, ALU and five-stage pipeline. Implemented RTL and evaluated processor performance.",
+    "image": "processor",
+    "category": "verilog",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Smart Glove for Blind People",
+    "desc": "Developed navigation system for visually impaired using Arduino Uno, GSM, GPS, and MEMS. Integrated fall detection with 3-axis accelerometer.",
+    "image": "smartglove",
+    "category": "embedded",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Sound Detector using ARM",
+    "desc": "Sound detection system for home automation and security using ARM LPC2148 controller. Simulated prototype in Proteus Professional.",
+    "image": "sound",
+    "category": "embedded",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Automatic Street Light Control",
+    "desc": "Power-saving street light system using IC 555 interfacing and sensors. Automatically switches lights based on ambient light levels.",
+    "image": "streetlight",
+    "category": "embedded",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Water Level Control System",
+    "desc": "Automatic water level monitoring system to prevent overflow using 8051 Microcontroller. Controls water pump based on tank levels.",
+    "image": "waterlevel",
+    "category": "embedded",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "DTMF Controlled Vehicle",
+    "desc": "Remote-controlled vehicle using Dual Tone Multi Frequency (DTMF) technology. Assembled hardware and implemented control system.",
+    "image": "dtmf",
+    "category": "embedded",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Accident Detection System",
+    "desc": "Accident detection and alert system using GSM, GPS and MEMS. Sends emergency messages to registered mobile numbers upon detection.",
+    "image": "accident",
+    "category": "embedded",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  }
+]
